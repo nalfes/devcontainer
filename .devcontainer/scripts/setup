@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/usr/local/bin/mise trust /workspaces/devpod-test/mise.toml && /usr/local/bin/mise install
+
+
